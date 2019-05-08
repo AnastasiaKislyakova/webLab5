@@ -1,0 +1,24 @@
+.block{
+	height: 98%;
+	text-align: left;
+	padding: 10px;
+}
+
+.btn1, .btn2{
+	margin: 2px;
+}
+
+.btn1{
+	background-color: #ADFF2F;
+	color: black;
+}
+
+.btn2{
+	background-color: #006400;
+	color: white;
+}
+
+
+.link{
+	color: black;
+}
